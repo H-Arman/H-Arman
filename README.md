@@ -16,6 +16,6 @@ I am a student fascinated by how data can be used to uncover patterns, make pred
 
 ### 🧰 Tech Stack & Tools
 
-[![Skills](https://skills.syvixor.com/api/icons?i=python,java,c,cpp,javascript,html,css,react)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?i=python,java,c,cpp,javascript,html,css,react,typescript)](https://github.com/syvixor/skills-icons)
 
 ---
